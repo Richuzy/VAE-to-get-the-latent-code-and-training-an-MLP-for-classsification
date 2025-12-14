@@ -21,7 +21,7 @@ ChestXray14/
 │   ├── 00000001_001.png
 │   └── ...
 └── Data_Entry_2017_v2020.csv
-
+```
 
 
 Update the `DATA_DIR` variable in the notebook or code to point to this folder.
