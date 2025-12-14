@@ -14,12 +14,13 @@ https://nihcc.app.box.com/v/ChestXray-NIHCC
 
 After downloading, extract the files so your directory looks like:
 
+```text
 ChestXray14/
 ├── images/
-│ ├── 00000001_000.png
-│ ├── 00000001_001.png
-│ └── ...
-└── Data_Entry_2017_v2020.csv'
+│   ├── 00000001_000.png
+│   ├── 00000001_001.png
+│   └── ...
+└── Data_Entry_2017_v2020.csv
 
 
 
